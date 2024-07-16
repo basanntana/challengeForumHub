@@ -26,7 +26,7 @@ A API FórumHub permite as seguintes operações:
 - **MySQL:** Banco de dados relacional para armazenamento dos dados.
 
 ## Badge
-Este é um badge conquistado por ter desenvolvido o segundo challenge. 
+Este é um badge conquistado por ter desenvolvido o terceiro e último challenge. 
 
 <div align="center">
   
