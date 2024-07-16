@@ -24,3 +24,12 @@ A API FórumHub permite as seguintes operações:
 - **auth0:** Serviço de gestão de identidade e autenticação usada para integrar e gerenciar as credenciais dos usuários.
 - **Spring Doc:** Utilizado para geração automática de documentação da API.
 - **MySQL:** Banco de dados relacional para armazenamento dos dados.
+
+## Badge
+Este é um badge conquistado por ter desenvolvido o segundo challenge. 
+
+<div align="center">
+  
+![Badge](img/Badge-Spring.png)
+
+</div>
